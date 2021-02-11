@@ -1,6 +1,6 @@
 ---
 # tasks file for ssh
-  - copy over ssh config 
+  - name: copy over ssh config 
     copy: 
       src:  sshd_config
       dest: /etc/ssh/sshd_config

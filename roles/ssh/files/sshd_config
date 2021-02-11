@@ -1,5 +1,5 @@
-#ChallengeResponseAuthentication yes
-ChallengeResponseAuthentication no
+ChallengeResponseAuthentication yes
+#ChallengeResponseAuthentication no
 # be allowed through the ChallengeResponseAuthentication and
 # PAM authentication via ChallengeResponseAuthentication may bypass
 # and ChallengeResponseAuthentication to 'no'.
